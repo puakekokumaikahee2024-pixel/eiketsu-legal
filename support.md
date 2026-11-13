@@ -35,6 +35,9 @@ A. EEA（欧州経済領域）・英国・スイスにお住まいの方には�
 **Q. アプリを削除するとデータはどうなりますか？**
 A. 端末に保存されたデータは、アプリの削除とともに消去される場合があります。
 
+**Q. アカウントを削除するにはどうすればいいですか？**
+A. 設定画面 →「アカウント削除」から削除できます。削除するとランキングデータ・表示名・対局履歴がすべて消去され、復元できません。
+
 ### 関連ページ
 - [プライバシーポリシー](privacy.md)
 - [利用規約](terms.md)
@@ -68,6 +71,9 @@ A. For users in the EEA, UK, and Switzerland, we ask for consent before showing 
 
 **Q. What happens to my data if I delete the app?**
 A. Data stored on your device may be erased when you delete the app.
+
+**Q. How do I delete my account?**
+A. Go to Settings → "Delete Account" in the app. Deleting your account permanently erases all of your ranking data, display name, and game history, and it cannot be restored.
 
 ### Related Pages
 - [Privacy Policy](privacy.md)
