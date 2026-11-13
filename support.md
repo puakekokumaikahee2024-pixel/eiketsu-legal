@@ -33,7 +33,7 @@ A. アプリを完全に終了してから再起動してください。改善�
 A. EEA（欧州経済領域）・英国・スイスにお住まいの方には、法令に基づき広告表示前に同意確認を行っています。詳しくは[プライバシーポリシー](privacy.md)をご確認ください。
 
 **Q. アプリを削除するとデータはどうなりますか？**
-A. 端末に保存されたデータは、アプリの削除とともに消去される場合があります。
+A. 端末に保存されたデータは、アプリの削除とともに消去される場合があります。アプリを削除しても、サーバー上のアカウント情報は削除されません。完全に削除するには、先にアプリ内の設定画面からアカウント削除を行ってください。
 
 **Q. アカウントを削除するにはどうすればいいですか？**
 A. 設定画面 →「アカウント削除」から削除できます。削除するとランキングデータ・表示名・対局履歴がすべて消去され、復元できません。
@@ -70,7 +70,7 @@ A. Fully close the app and restart it. If the problem persists, try restarting y
 A. For users in the EEA, UK, and Switzerland, we ask for consent before showing ads, as required by law. See the [Privacy Policy](privacy.md) for details.
 
 **Q. What happens to my data if I delete the app?**
-A. Data stored on your device may be erased when you delete the app.
+A. Data stored on your device may be erased when you delete the app. Uninstalling the app does not delete your account data from the server. To delete your data completely, please delete your account from the Settings screen before uninstalling.
 
 **Q. How do I delete my account?**
 A. Go to Settings → "Delete Account" in the app. Deleting your account permanently erases all of your ranking data, display name, and game history, and it cannot be restored.
